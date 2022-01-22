@@ -1,0 +1,9 @@
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+textarea {
+    border-radius: 6px;
+    border-color: seagreen;
+}

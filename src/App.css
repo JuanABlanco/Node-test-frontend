@@ -1,0 +1,13 @@
+
+.label {
+    font-weight: 600;
+}
+
+.btn {
+    background-color: transparent;
+    border-radius: 6px;
+    border-color: seagreen;
+    font-size: 1rem;
+    margin-top: 5vh;
+    padding-inline: 2vw;
+}

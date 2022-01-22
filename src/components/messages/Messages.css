@@ -1,0 +1,23 @@
+.tl {
+    margin: 10vh 10vw;
+}
+
+.msgs {
+    padding-top: 5vh;
+    margin-left: 5vw;
+}
+
+li {
+    list-style: none;
+}
+
+.message-text{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.message-date {
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: slategray;
+}

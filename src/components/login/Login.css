@@ -1,0 +1,17 @@
+.container {
+    margin: 20vh 30vw;
+    padding-block: 5vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    border-style: solid;
+    border-radius: 6px;
+    border-color: seagreen;
+
+}
+
+input {
+    border-radius: 6px;
+    border-color: seagreen;
+}
